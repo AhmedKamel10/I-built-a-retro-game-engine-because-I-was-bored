@@ -206,7 +206,7 @@ Worth reading: Lode Vandevenne's raycasting tutorial (lodev.org), Fabien Sanglar
 
 ## How this got made
 
-I used AI help (Claude) throughout. It helped with the boilerplate, the imp sprite and the gun drawing, the bitmap font and HUD, the game over screen, the sound synthesis, and a lot of code review. Several of the bugs above were found by it reading my code. The rest, including the line algorithm, the map and movement, the raycasting, hit detection, spawning, enemy behavior, and the grenades, I wrote and debugged myself.
+I used AI help (Claude) throughout. It helped with the boilerplate, the imp sprite and the gun drawing, the game over screen and the sound synthesis. The rest, including the line algorithm, the map and movement, the raycasting, hit detection, spawning, enemy behavior, and the grenades, I wrote and debugged myself.
 
 If you read the code and spot something I should have caught, I would like to hear it.
 
