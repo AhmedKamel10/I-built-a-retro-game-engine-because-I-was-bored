@@ -4,11 +4,11 @@ A first-person shooter written from scratch in C++ with a software renderer. Eve
 
 <!-- screenshot or gif goes here -->
 
-It is not Doom. Real Doom is a BSP-tree engine with variable-height sectors, and that is weeks of work I did not do. This is a Wolfenstein-style raycaster that looks like Doom for about two seconds. The name is a joke, and I have decided to stand by it.
+It is not actually Doom ofc. Real Doom is a BSP-tree engine with variable-height sectors, and that is weeks of work I did not do. This is a Wolfenstein-style raycaster that looks like Doom for about two seconds. The name is a joke, and I have decided to stand by it.
 
 ## Why this exists
 
-I started it around 3 a.m. after finishing everything I was actually supposed to be doing and realizing I was not going to sleep. My entire computer graphics toolkit at that point was two algorithms from class: Bresenham's line and the midpoint circle. This is what happened next.
+I started it around 3 a.m. after finishing everything I was actually supposed to be doing and realizing I was not going to sleep. My entire computer graphics toolkit at that point was two algorithms from class: Bresenham's line and the midpoint circle. This is what happened next. And again this is something I built in 2 days with barely any previous knowledge.
 
 I wrote the engine by hand because I wanted to understand it, not because it's the fast way to make a shooter. Some of it is clean. Some of it is the first thing that worked. I've tried to be honest about which is which below.
 
